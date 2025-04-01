@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Arduino Mousejack (ShutDô) ![projects-microcontroller](https://img.shields.io/badge/projects-microcontroller-blue)
 -----------------
 
@@ -52,3 +53,6 @@ Components list:
  - to create a python program to interact with arduino, passing parameters to the runtime attack;
  - to test the same project with Arduino NanoRF.
   
+=======
+# Arduino_mousejack-master
+>>>>>>> a46256149a3b9d272452eb31c9b8a5ba47fa84e0
